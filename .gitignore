@@ -13,3 +13,5 @@ yarn-error.log
 .bsb.lock
 .merlin
 lib/
+
+_esy
